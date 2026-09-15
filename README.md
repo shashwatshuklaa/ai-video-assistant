@@ -241,15 +241,6 @@ Possible improvements include:
 * Improved UI and user experience
 * Support for additional LLM providers
 
-## 🙏 Acknowledgement
-
-This project was developed by adapting and extending ideas and implementation from the original project:
-
-**Original repository:**
-https://github.com/AkarshVyas/AI-Video-Assistant-
-
-The original project served as a learning/reference base, and this repository contains my own setup, modifications, and development work.
-
 ## 👨‍💻 Author
 
 **Shashwat Shukla**
